@@ -34,7 +34,7 @@ $("#add-giphy-button").on("click", function(e) {
 	}
 	if($("#new-giphy-input").val() !== "" && alreadyExist === false) {
 		var newGiphy = $("#new-giphy-input").val().toLowerCase();
-		topics.push(newBabe);
+		topics.push(newGiphy);
 		var button = $("<button>").text(newGiphy);
 		button.attr("data-giphy", newGiphy);
 		button.addClass("giphy-button");
