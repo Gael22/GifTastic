@@ -20,4 +20,4 @@ Add a form to the page that takes the value from a user input box and adds it in
 
 Deploy the assignment to Github Pages.
 
-To visit deployed application, go to https://github.com/Gael22/GifTastic
+To visit deployed application, go to https://gael22.github.io/GifTastic/
