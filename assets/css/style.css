@@ -1,5 +1,5 @@
 body {
-	background: #32419b;
+	background: #24283b;
 	font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -20,15 +20,16 @@ small {
 
 .giphy-button {
 	font-size: 14px;
-	background: rgb(223, 222, 235);
+	background: rgb(223, 222, 234);
 	border: none;
 	padding: 10px 15px;
 	margin: 6px;
 	border-radius: 10px;
 }
 
-.giphy-button:hover, .giphy-button:active {
-	background: rgb(38, 48, 75);
+.giphy-button:hover,
+.giphy-button:active {
+	background: rgb(38, 48, 76);
 	color: rgb(194, 213, 241);
 }
 
@@ -42,7 +43,8 @@ small {
 	border-radius: 10px;
 }
 
-#add-giphy-button:hover, #add-giphy-button:active {
+#add-giphy-button:hover,
+#add-giphy-button:active {
 	background: #00cc00;
 }
 
@@ -76,8 +78,8 @@ small {
 
 .result:hover {
 	-webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.4);
-	-moz-box-shadow:    10px 10px 0px 0px rgba(0, 0, 0, 0.4);
-	box-shadow:         10px 10px 0px 0px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.4);
+	box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.4);
 }
 
 p {
