@@ -18,6 +18,6 @@ This data is provided by the GIPHY API.
 Only once you get images displaying with button presses should you move on to the next step.
 Add a form to the page that takes the value from a user input box and adds it into the topics array. Then make a function call that takes each topic in the array remakes the buttons on the page.
 
-Deploy the assignment to Github Pages.
+Deploy the assignment to Github Pages
 
 To visit deployed application, go to https://gael22.github.io/GifTastic/
