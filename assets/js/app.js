@@ -54,7 +54,7 @@ $(document).on('click', '.giphy-button', function () {
 	}).done(function (response) {
 		var results = response.data;
 		console.log(results);
-		// console.log(results);
+		// console.log
 
 		var resultsContainerSection = $("<section class='results-container'>");
 
